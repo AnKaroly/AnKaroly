@@ -65,7 +65,3 @@ class AnaKarolina:
 - 🐍 Aprofundando Python para engenharia de dados (estrutura de projeto, testes, logging)
 - 🔄 Evoluindo o `etl-indicadores-bcb` com novas fontes e agendamento
 - 🤖 Próximo passo: fundamentos de Machine Learning
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnKaroly&layout=compact&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
-</p>
